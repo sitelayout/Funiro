@@ -1,0 +1,73 @@
+{
+	"products" : [
+		{
+			"id": 5,
+			"url": "#",
+			"title": "Grifo",
+			"text": "Ночник",
+			"labels": "",
+			"image": "5.jpeg",
+			"price": "15 000",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		} ,
+		{
+			"id": 6,
+			"url": "#",
+			"title": "Muggo",
+			"text": "Маленькая кружка",
+			"labels": [
+				{
+					"type": "sale",
+					"value": "-50%"
+				},
+				{
+					"type": "new",
+					"value": "Новинка"
+				}
+			],
+			"image": "6.jpeg",
+			"price": "1 500",
+			"priceOld": "3 000",
+			"shareUrl": "",
+			"likeUrl": ""
+		} ,
+		{
+			"id": 7,
+			"url": "#",
+			"title": "Pingky",
+			"text": "Симпатичный постельный комплект",
+			"labels": [
+				{
+					"type": "sale",
+					"value": "-50%"
+				}
+				
+			],
+			"image": "7.jpeg",
+			"price": "70 000",
+			"priceOld": "140 000",
+			"shareUrl": "",
+			"likeUrl": ""
+		} ,
+		{
+			"id": 8,
+			"url": "#",
+			"title": "Potty",
+			"text": "Цветочная ваза в стиле минимализм",
+			"labels": [
+				{
+					"type": "new",
+					"value": "Новинка"
+				}
+				
+			],
+			"image": "8.jpeg",
+			"price": "5 000",
+			"priceOld": "",
+			"shareUrl": "",
+			"likeUrl": ""
+		} 
+	]
+}
